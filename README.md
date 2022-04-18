@@ -20,8 +20,11 @@
 yt-dlp is a [youtube-dl](https://github.com/ytdl-org/youtube-dl) fork based on the now inactive [youtube-dlc](https://github.com/blackjack4494/yt-dlc). The main focus of this project is adding new features and patches while also keeping up to date with the original project
 
 sudo yum install epel-release
+
 sudo rpm -v --import http://li.nux.ro/download/nux/RPM-GPG-KEY-nux.ro
+
 sudo rpm -Uvh http://li.nux.ro/download/nux/dextop/el7/x86_64/nux-dextop-release-0-5.el7.nux.noarch.rpm
+
 sudo yum install ffmpeg ffmpeg-devel
 
 <!-- MANPAGE: MOVE "USAGE AND OPTIONS" SECTION HERE -->
